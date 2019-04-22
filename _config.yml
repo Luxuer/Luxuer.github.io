@@ -1,4 +1,4 @@
-title: Code Journey
+title: 代码人生
 author: Shaven Law
 email: 470689430@qq.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -6,7 +6,6 @@ description: > # this means to ignore newlines until "baseurl:"
   which helps me a lot in my life. I will also try python. Hopefully it will help others.
 
 # social links
-twitter_username: none
 github_username:  Luxuer
 
 show_excerpts: true # set to false to remove excerpts on the homepage
