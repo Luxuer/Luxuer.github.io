@@ -6,9 +6,9 @@
 
 ## To do list:
 
-学习Markdown和latex, 写一篇介绍泊松分布的post, 里面证明一下泊松定理
-学习Jekyll和YAML, 做好博客的homepage
-写一篇介绍齐次坐标的post
+- 学习Markdown和latex, 写一篇介绍泊松分布的post, 里面证明一下泊松定理
+- 学习Jekyll和YAML, 做好博客的homepage
+- 写一篇介绍齐次坐标的post
 
 
 
