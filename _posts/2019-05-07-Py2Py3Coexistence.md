@@ -2,10 +2,10 @@
 
 ## 0x00 安装Python2和Python3
 ### 1. 下载安装包
-从[官网](https://www.python.org/)下载Python2和Python3(版本必须3.3以上)安装包.  
+从[官网](https://www.python.org/)下载Python2和Python3(版本必须3.3以上)安装包(本文讨论的Python版本分别为2.7和3.7).  
 ### 2. 安装
-首先双击Python2安装包, 本文的Python2安装目录为`E:/Program Files/Python/Python2/`, 不要添加到环境变量PATH(默认是不添加的, 在这里强调一下, 下同).  
-然后双击Python3安装包, 本文的Python3安装目录为`E:/Program Files/Python/Python3/`, 不要添加到环境变量PATH(默认是不添加的), 在Customize istallation中勾选py launcher(默认是勾选的).  
+首先双击Python2安装包, 本文的Python2安装目录为`E:/Program Files/Python/Python27/`, 不要添加到环境变量PATH(默认是不添加的, 在这里强调一下, 下同).  
+然后双击Python3安装包, 本文的Python3安装目录为`E:/Program Files/Python/Python37/`, 不要添加到环境变量PATH(默认是不添加的), 在Customize istallation中勾选py launcher(默认是勾选的).  
 PS: Python2和Python3的安装顺序无所谓.   
 
 ## 0x01 启动和简单使用不同版本的Python
@@ -36,7 +36,7 @@ PS: USER_SITE就是**pip下载第三方包的存放目录**. Windows下Python2.7
 ```cmd
 py -2 -m site -help
 ```
-出现的第一行(类似于`D:\Program Files\Python\Python27\lib\site.py`)就是pip的配置文件所在, 根据该目录找到site.py文件并打开, 修改其中的USER_BASE和USER_SITE, 其中USER_BASE修改为刚刚的Python2安装目录(本文是`E:/Program Files/Python/Python2`), USER_SITE修改为安装目录下的`Lib/site-packages`文件夹(本文为`E:/Program Files/Python/Python2/Lib/site-packages`): 
+出现的第一行(类似于`D:\Program Files\Python\Python27\lib\site.py`)就是pip的配置文件所在, 根据该目录找到site.py文件并打开, 修改其中的USER_BASE和USER_SITE, 其中USER_BASE修改为刚刚的Python2安装目录(本文是`E:/Program Files/Python/Python27`), USER_SITE修改为安装目录下的`Lib/site-packages`文件夹(本文为`E:/Program Files/Python/Python27/Lib/site-packages`): 
 ```py -2
 USER_SITE = "D:\Program Files\Python\Python27\Lib\site-packages"
 USER_BASE = "D:\Program Files\Python\Python27"
