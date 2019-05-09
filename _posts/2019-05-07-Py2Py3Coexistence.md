@@ -48,7 +48,7 @@ py -2 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pip -U
 :: 设置pip源为清华源
 py -2 -m pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
-#### 使用Python2的pip下载matplotlib
+#### 使用Python2的pip下载matplotlib模块
 ```cmd
 py -2 -m pip install matplotlib
 ```
