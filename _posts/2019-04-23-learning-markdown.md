@@ -1,6 +1,5 @@
 ---
-title: "Markdown基础语法"
-date: 2019-04-23 01:10:30 +0800
+title: Markdown基础语法
 ---
 
 总结一下学到的Markdown基础语法.  
