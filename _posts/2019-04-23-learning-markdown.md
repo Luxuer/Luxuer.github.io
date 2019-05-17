@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Markdown基础语法
 ---
 

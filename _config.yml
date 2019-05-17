@@ -1,13 +1,14 @@
-title: 极简人生
-author: Shaven Law
-email: 470689430@qq.com
-description: > # this means to ignore newlines until "baseurl:"
-  This is a personal blog about my journey on coding. My favourate language is C++, 
-  which helps me a lot in my life. I will also try python. Hopefully it will help others.
+baseurl: /Luxuer.github.io
+# title: 极简人生
+# author: Shaven Law
+# email: 470689430@qq.com
+# description: > # this means to ignore newlines until "baseurl:"
+#   This is a personal blog about my journey on coding. My favourate language is C++, 
+#   which helps me a lot in my life. I will also try python. Hopefully it will help others.
 
-# social links
-github_username:  Luxuer
+# # social links
+# github_username:  Luxuer
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+# show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight

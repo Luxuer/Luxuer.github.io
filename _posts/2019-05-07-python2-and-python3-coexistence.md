@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Windows下Python2和Python3共存的方法——利用Py启动器
 ---
 
