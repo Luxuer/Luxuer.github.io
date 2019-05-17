@@ -1,6 +1,5 @@
 ---
-title: "学习VSCode"
-date: 2019-05-14
+title: 学习VSCode
 ---
 
 # 学习VSCode
