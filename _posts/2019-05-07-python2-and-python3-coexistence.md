@@ -1,6 +1,5 @@
 ---
-title: "Windows下Python2和Python3共存的方法——利用Py启动器"
-date: 2019-05-07
+title: Windows下Python2和Python3共存的方法——利用Py启动器
 ---
 
 # Windows下Python2和Python3共存的方法——利用Py启动器
