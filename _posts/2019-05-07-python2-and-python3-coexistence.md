@@ -57,7 +57,10 @@ py -2 -m pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simpl
 ```cmd
 py -2 -m pip install matplotlib
 ```
-
+#### pip一次安装多个模块
+```cmd
+py -2 -m pip install matplotlib scipy numpy
+```
 
 
 
