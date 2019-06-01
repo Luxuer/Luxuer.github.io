@@ -16,3 +16,8 @@ title: 学习VSCode
 "editor.wordWrap": "off",
 在右侧把off换成on.
 
+# 设置运行Python快捷键
+1. 安装插件code runner
+    ctrl + shift + X      ----      code runner
+2.  Ctrl + Alt + N 运行代码
+（3. File - Reference - keyboard shortcuts  （Ctrl + K + Ctrl + S） -- 修改run Code的快捷键）
