@@ -21,3 +21,7 @@ title: 学习VSCode
     ctrl + shift + X      ----      code runner  
 2.  Ctrl + Alt + N 运行代码  
 （3. File - Reference - keyboard shortcuts  （Ctrl + K + Ctrl + S） -- 修改run Code的快捷键）  
+
+# 更改配色主题
+依次按下ctrl + k, ctrl + t, 然后选择
+
